@@ -12,15 +12,22 @@ body {
     text-align: center;
 }
 
+.encabezado_principal {
+    color: #ffffff;
+    margin: 3em;
+    font-size: 2em;
+}
+
 section {
     color: #ffffff;
+    padding: 2em;
     font-size: 1em;
     background-color: black;
 }
 
 article {
     background-color: black;
-    margin: 0.625em;
+    margin: 2em;
 }
 
 figure {
@@ -160,8 +167,3 @@ a:link, a:visited, a:active {
     border:none;
 }
 
-.encabezado_principal {
-    color: #ffffff;
-    margin: 3em;
-    font-size: 2em;
-}
