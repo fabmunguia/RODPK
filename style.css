@@ -14,20 +14,20 @@ body {
 
 .encabezado_principal {
     color: #ffffff;
-    margin: 3em;
+    margin: 2em;
     font-size: 2em;
 }
 
 section {
     color: #ffffff;
-    padding: 2em;
+    padding: 0.625em;
     font-size: 1em;
     background-color: black;
 }
 
 article {
     background-color: black;
-    margin: 2em;
+    margin: 0.625em;
 }
 
 figure {
@@ -166,3 +166,4 @@ a:link, a:visited, a:active {
 .carrusel-menu img:hover{
     border:none;
 }
+
